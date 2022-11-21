@@ -1,5 +1,5 @@
-# connect-four-js
-This is a simple connect four game made with vanilla JS, Html and Css
+
+This is a simple connect four game made with vanilla JS, HTML and CSS
 <br><br>
 <img src='teste.gif' />
 <br><br>
